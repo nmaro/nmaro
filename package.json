@@ -1,0 +1,11 @@
+{
+  "name": "eco",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": ":"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

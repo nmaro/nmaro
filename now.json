@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)/(.*)",
+      "destination": "https://$1.nmaro.now.sh/$2"
+    }
+  ]
+}
